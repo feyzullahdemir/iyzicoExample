@@ -1,2 +1,2 @@
 # iyzicoExample
-İyzico Alt yapısı kullanılarak geliştirlmiş örnekler.
+İyzico Alt yapısı kullanılarak geliştirilmiş örnekler.
