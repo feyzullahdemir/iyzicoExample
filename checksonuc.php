@@ -2,8 +2,8 @@
 
 require_once('config.php');
 
-echo $token = $_POST['token'];
-
+//echo $token = $_POST['token'];
+$token = $_POST['token'];
 
 
 $request = new \Iyzipay\Request\RetrieveCheckoutFormRequest();
